@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Teste Prático para vaga de Desenvolvedor Full Stack na PuzlPlace - Desenvolvimento de uma API e SPA
 
 # Sobre o Projeto
@@ -93,3 +94,6 @@ O arquivo `conn.js` foi configurado para se conectar ao banco de dados MongoDB s
    2.Inicialize o servidor de desenvolvimento
       -npm run serve
       -O frontend estará disponível em: http://localhost:8080
+=======
+# library_table
+>>>>>>> eab4b3ffabc3895f9c3dd7f19c9a5160ca27d5e0
