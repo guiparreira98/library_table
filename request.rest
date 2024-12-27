@@ -1,0 +1,19 @@
+POST http://localhost:8000/api/bibliotecas
+Content-Type: application/json
+
+{
+  "autor": "Guilherme",
+  "tipo_arquivo": "Digital",
+  "nome": "Digital",
+  "categoria": "Tamanho do Livro"
+}
+
+###
+GET http://localhost:8000/api/bibliotecas
+
+###
+GET http://localhost:8000/api/bibliotecas/oDH3yi3V8oODWONgAGP2
+
+###
+
+
